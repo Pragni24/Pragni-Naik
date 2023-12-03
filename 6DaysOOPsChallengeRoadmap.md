@@ -12,7 +12,10 @@ If you have any questions, suggestions, or just want to discuss the content, fee
 2. **Kunal Kushwaha's Notes:**
    
 3. **Coding Ninjas OOPs Course:**
-   - [**Link to Coding Ninjas OOPs Course**](https://www.codingninjas.com/studio/guided-paths/oops-in-java) 
+   - [**Link to Coding Ninjas OOPs Course**](https://www.codingninjas.com/studio/guided-paths/oops-in-java)
+
+## **Common Link to go trough all folders**
+   - [**Click here**](https://github.com/Pragni24/Pragni-Naik/tree/15b75ec1e971d9e5c67a7f9b57f69cfdc5ed9713/OOP%206%20Days%20Challenge)
 
 ## 📂 **Day-wise Folders**
 
