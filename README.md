@@ -10,6 +10,14 @@
 2. 🗓️ **Daily Updates:** Check the repository for day-to-day progress.
 3. 🌟 **Connect with Me:** Reach out on LinkedIn Pragni Naik(https://www.linkedin.com/in/pragni-naik-86b82b24b/).
 
+## Roadmaps
+
+### 6 Days OOPs Challenge
+
+Welcome to the **6 Days OOPs Challenge**! Follow this structured roadmap to enhance your Object-Oriented Programming (OOP) skills in Java.
+
+- [**6 Days OOPs Challenge Roadmap**](https://github.com/Pragni24/Pragni-Naik/blob/80e3326ad4bcd879ed23a0ab9f80274b37e5b0a7/6DaysOOPsChallengeRoadmap.md) 
+
 ## Contributing
 
 I welcome contributions! If you have suggestions, improvements, or find errors, please open an issue or submit a pull request. 
