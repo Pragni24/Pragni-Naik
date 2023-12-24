@@ -22,7 +22,7 @@ If you have any questions, suggestions, or just want to discuss the content, fee
    - [**Link to Day 1 Folder**](https://github.com/Pragni24/Pragni-Naik/tree/85731b64ade3f550bef94c649f75d8a4b24e5aff/Arrays/Day1)  <!-- Create a "day1" folder and add content -->
 
 ### **Day 2:** 
-   - [**Link to Day 2 Folder**](https://github.com/Pragni24/Pragni-Naik/tree/54ade397914489c9a05263ff85078548b412ed38/OOP%206%20Days%20Challenge/Day2](https://github.com/Pragni24/Pragni-Naik/tree/047715094c48183950c806b3b2f816345b5e6af5/Arrays/Day2))  <!-- Create a "day2" folder and add content -->
+   - [**Link to Day 2 Folder**](https://github.com/Pragni24/Pragni-Naik/tree/4e01b19afaa838e551de0fd8b3ce94540570dfd1/Arrays/Day2) <!-- Create a "day2" folder and add content -->
 
 ### **Questions Solved**
    - [**Link to view practice problems**](https://github.com/Pragni24/Pragni-Naik/blob/047715094c48183950c806b3b2f816345b5e6af5/Arrays/QuestionsSolved.md)
