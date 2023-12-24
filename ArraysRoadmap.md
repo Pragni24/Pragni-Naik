@@ -19,7 +19,7 @@ If you have any questions, suggestions, or just want to discuss the content, fee
 ## 📂 **Day-wise Folders**
 
 ### **Day 1:** 
-   - [**Link to Day 1 Folder**](https://github.com/Pragni24/Pragni-Naik/tree/54ade397914489c9a05263ff85078548b412ed38/OOP%206%20Days%20Challenge/Day%201](https://github.com/Pragni24/Pragni-Naik/tree/047715094c48183950c806b3b2f816345b5e6af5/Arrays/Day1))  <!-- Create a "day1" folder and add content -->
+   - [**Link to Day 1 Folder**](https://github.com/Pragni24/Pragni-Naik/tree/85731b64ade3f550bef94c649f75d8a4b24e5aff/Arrays/Day1)  <!-- Create a "day1" folder and add content -->
 
 ### **Day 2:** 
    - [**Link to Day 2 Folder**](https://github.com/Pragni24/Pragni-Naik/tree/54ade397914489c9a05263ff85078548b412ed38/OOP%206%20Days%20Challenge/Day2](https://github.com/Pragni24/Pragni-Naik/tree/047715094c48183950c806b3b2f816345b5e6af5/Arrays/Day2))  <!-- Create a "day2" folder and add content -->
