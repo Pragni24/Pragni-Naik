@@ -24,6 +24,6 @@ If you have any questions, suggestions, or just want to discuss the content, fee
    - [**StringBuffer example code**](https://github.com/Pragni24/Pragni-Naik/tree/b9df88ad33449bc44a54a87164def93098d1c83a/Strings-StringBuilder-StringBuffer/StringBuffer/Example)
 
 ### **Questions Solved**
-   - [**Link to view practice problems**](https://github.com/Pragni24/Pragni-Naik/blob/b0929a0c68ea56eeb41302eb02e6ff7401f16b69/Arrays/QuestionsSolved.md)
+   - [**Link to view practice problems**](https://github.com/Pragni24/Pragni-Naik/blob/944e2958bc0527e9a08b5c8a98163928aef96962/Strings-StringBuilder-StringBuffer/Questions%20Solved.md)
 
 Feel free to explore the resources and follow the day-wise folders to enhance your understanding of String-StringBuilder-StringBuffer in Java. **Happy coding!** 🎉
