@@ -15,7 +15,7 @@ If you have any questions, suggestions, or just want to discuss the content, fee
 3. **Coding Ninjas**
 
 ## **Common Link to go trough all folders**
-   - [**Click here**](https://github.com/Pragni24/Pragni-Naik/tree/92a733dda0cbc92223ed89c6dc8dacaa6fa8b75f/Arrays)
+   - [**Click here**](https://github.com/Pragni24/Pragni-Naik/tree/d6d1f3a024ed9e121dc1b706afcdbb88c4557c1d/Strings-StringBuilder-StringBuffer)
 
 ## 📂 **Folders**
 
