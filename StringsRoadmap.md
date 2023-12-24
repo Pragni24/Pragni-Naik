@@ -17,10 +17,10 @@ If you have any questions, suggestions, or just want to discuss the content, fee
 ## **Common Link to go trough all folders**
    - [**Click here**](https://github.com/Pragni24/Pragni-Naik/tree/92a733dda0cbc92223ed89c6dc8dacaa6fa8b75f/Arrays)
 
-## 📂 **Day-wise Folders**
+## 📂 **Folders**
 
 ### **Day 1:** 
-   - [**Link to Day 1 Folder**](https://github.com/Pragni24/Pragni-Naik/tree/85731b64ade3f550bef94c649f75d8a4b24e5aff/Arrays/Day1)  <!-- Create a "day1" folder and add content -->
+   - [**Handwritten Notes**](https://github.com/Pragni24/Pragni-Naik/blob/d725931b9e58f611f55400f294fceac6410c4058/Strings-StringBuilder-StringBuffer/Notes_Strings_PragniNaik.pdf)  <!-- Create a "day1" folder and add content -->
 
 ### **Questions Solved**
    - [**Link to view practice problems**](https://github.com/Pragni24/Pragni-Naik/blob/b0929a0c68ea56eeb41302eb02e6ff7401f16b69/Arrays/QuestionsSolved.md)
