@@ -21,6 +21,7 @@ If you have any questions, suggestions, or just want to discuss the content, fee
 
 ### **Day 1:** 
    - [**Handwritten Notes**](https://github.com/Pragni24/Pragni-Naik/blob/d725931b9e58f611f55400f294fceac6410c4058/Strings-StringBuilder-StringBuffer/Notes_Strings_PragniNaik.pdf)  <!-- Create a "day1" folder and add content -->
+   - [**StringBuffer example code**](https://github.com/Pragni24/Pragni-Naik/tree/b9df88ad33449bc44a54a87164def93098d1c83a/Strings-StringBuilder-StringBuffer/StringBuffer/Example)
 
 ### **Questions Solved**
    - [**Link to view practice problems**](https://github.com/Pragni24/Pragni-Naik/blob/b0929a0c68ea56eeb41302eb02e6ff7401f16b69/Arrays/QuestionsSolved.md)
