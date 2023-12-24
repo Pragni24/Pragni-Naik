@@ -7,7 +7,7 @@ If you have any questions, suggestions, or just want to discuss the content, fee
 ## 📚 **Resources**
 
 1. **Kunal Kushwaha's Video Lecture:**
-   - [**Link to Video Lecture**](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&si=IKrPZs_zZmd0lPiA](https://youtu.be/n60Dn0UsbEk?si=HmQQGS6tQl0h7zMZ))  
+   - [**Link to Video Lecture**](https://youtu.be/n60Dn0UsbEk?si=HmQQGS6tQl0h7zMZ)
 
 2. **Kunal Kushwaha's Notes:**
    
