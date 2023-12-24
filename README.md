@@ -20,7 +20,7 @@ Welcome to the **6 Days OOPs Challenge**! Follow this structured roadmap to enha
 
 ### Arrays Challenge
 In this challenge, first we completely dive into the basic to advanced concepts of Arrays. Check out the following Roadmap to track and follow my Array learning journey!
--[**Arrays Roadmap**](https://github.com/Pragni24/Pragni-Naik/blob/f4d591bfea2f00fd498ac393dd9742200c955064/ArraysRoadmap.md)
+- [**Arrays Roadmap**](https://github.com/Pragni24/Pragni-Naik/blob/f4d591bfea2f00fd498ac393dd9742200c955064/ArraysRoadmap.md)
 
 ## Contributing
 
