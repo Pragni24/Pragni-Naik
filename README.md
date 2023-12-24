@@ -16,7 +16,11 @@
 
 Welcome to the **6 Days OOPs Challenge**! Follow this structured roadmap to enhance your Object-Oriented Programming (OOP) skills in Java.
 
-- [**6 Days OOPs Challenge Roadmap**](https://github.com/Pragni24/Pragni-Naik/blob/80e3326ad4bcd879ed23a0ab9f80274b37e5b0a7/6DaysOOPsChallengeRoadmap.md) 
+- [**6 Days OOPs Challenge Roadmap**](https://github.com/Pragni24/Pragni-Naik/blob/80e3326ad4bcd879ed23a0ab9f80274b37e5b0a7/6DaysOOPsChallengeRoadmap.md)
+
+### Arrays Challenge
+In this challenge, first we completely dive into the basic to advanced concepts of Arrays. Check out the following Roadmap to track and follow my Array learning journey!
+-[**Arrays Roadmap**]()
 
 ## Contributing
 
