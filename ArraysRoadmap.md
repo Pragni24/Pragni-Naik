@@ -25,6 +25,6 @@ If you have any questions, suggestions, or just want to discuss the content, fee
    - [**Link to Day 2 Folder**](https://github.com/Pragni24/Pragni-Naik/tree/4e01b19afaa838e551de0fd8b3ce94540570dfd1/Arrays/Day2) <!-- Create a "day2" folder and add content -->
 
 ### **Questions Solved**
-   - [**Link to view practice problems**](https://github.com/Pragni24/Pragni-Naik/blob/047715094c48183950c806b3b2f816345b5e6af5/Arrays/QuestionsSolved.md)
+   - [**Link to view practice problems**](https://github.com/Pragni24/Pragni-Naik/blob/b0929a0c68ea56eeb41302eb02e6ff7401f16b69/Arrays/QuestionsSolved.md)
 
 Feel free to explore the resources and follow the day-wise folders to enhance your understanding of Arrays in Java. **Happy coding!** 🎉
