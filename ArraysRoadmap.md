@@ -14,7 +14,7 @@ If you have any questions, suggestions, or just want to discuss the content, fee
 3. **Coding Ninjas**
 
 ## **Common Link to go trough all folders**
-   - [**Click here**]([https://github.com/Pragni24/Pragni-Naik/tree/15b75ec1e971d9e5c67a7f9b57f69cfdc5ed9713/OOP%206%20Days%20Challenge](https://github.com/Pragni24/Pragni-Naik/tree/047715094c48183950c806b3b2f816345b5e6af5/Arrays))
+   - [**Click here**](https://github.com/Pragni24/Pragni-Naik/tree/92a733dda0cbc92223ed89c6dc8dacaa6fa8b75f/Arrays)
 
 ## 📂 **Day-wise Folders**
 
