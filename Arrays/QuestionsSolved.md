@@ -11,3 +11,4 @@
 - [Search an element in a matriix](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)
 - [Row with max 1s](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 - [Print elements in sorted order using row-column wise sorted matrix](https://www.geeksforgeeks.org/problems/sorted-matrix2333/1)
+- [Rotate matrix by 90 degree](https://www.geeksforgeeks.org/problems/rotate-by-90-degree0356/1)
