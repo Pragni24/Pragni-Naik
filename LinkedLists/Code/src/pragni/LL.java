@@ -40,7 +40,7 @@ public class LL {
             temp=temp.next;
         }
         Node node = new Node(val,temp.next);
-        temp.next=node; 
+        temp.next=node;
         size++;
     }
     public int deleteFirst(){

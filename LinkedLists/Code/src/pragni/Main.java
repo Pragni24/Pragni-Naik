@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Item removed is "+list.delete(2));
         list.display();
 
-         */
+
         DLL list = new DLL();
         list.insertFirst(3);
         list.insertFirst(2);
@@ -29,6 +29,18 @@ public class Main {
         list.displayReverse();
         list.insertLast(30);
         list.display();
+        list.insert(30,65);
+        list.display();
 
+
+         */
+        CLL list = new CLL();
+        list.insert(23);
+        list.insert(3);
+        list.insert(19);
+        list.insert(75);
+        list.display();
+        list.delete(19);
+        list.display();
     }
 }
