@@ -78,3 +78,46 @@ public class Solution {
 	}
 }
 ```
+- [Find a Node in Linked List](https://www.codingninjas.com/studio/problems/find-a-node-in-linked-list_625049)
+```java
+public class Solution {
+	public static int findNode(Node<Integer> head, int n) {
+		// Write your code here.
+		Node temp=head;
+		int count=0;
+		while(temp!=null){
+			count++;
+			temp=temp.next;
+		}
+		Node temp2=head;
+		for(int i = 0 ; i < count ; i++){
+			if((int)temp2.data==n){
+				return i;
+			}
+			temp2=temp2.next;
+		}
+		return -1;
+	}
+}
+```
+- [Reverse Linked List](https://www.codingninjas.com/studio/problems/reverse-the-singly-linked-list_799897)
+```java
+public class Solution 
+{
+    public static LinkedListNode<Integer> reverseLinkedList(LinkedListNode<Integer> head) 
+    {
+        // Write your code here!
+		LinkedListNode<Integer> current = head ;
+		LinkedListNode<Integer> prev = null ;
+		LinkedListNode<Integer> nextnode = null;
+		while(current!=null){
+			nextnode=current.next;
+			current.next=prev;
+			prev=current;
+			current=nextnode;
+			
+		}
+		return prev;
+    }
+}
+```
